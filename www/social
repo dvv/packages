@@ -1,0 +1,8 @@
+{name, "social"}.
+{description, "Cowboy handler for social login via OAuth2 providers"}.
+{license, "MIT"}.
+{source, git, "git://github.com/dvv/social.git"}.
+{otp_versions, ["R15+"]}.
+{links, [
+  {"Project page", "https://github.com/dvv/social"}
+]}.
